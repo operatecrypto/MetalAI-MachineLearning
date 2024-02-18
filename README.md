@@ -25,4 +25,8 @@ MS ML Studio
 https://www.operatecrypto.com/PubStatic/Sites/OperateCrypto/resources.html
 
 
+**Communication:**
+
+https://github.com/operatecrypto/MetalAI-MachineLearning/blob/main/Communication
+
 
